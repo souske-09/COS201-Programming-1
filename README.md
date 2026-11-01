@@ -1,4 +1,12 @@
-# COS201-Programming-1
+# COS 201 - Computer Programming I
+
+## Student Information
+- Name: [Kolawole above olaoluwa ]
+- Matriculation Number: [25/18104]
+- Programme: Software Engineering (SEN)
+- Course: COS 201
+
+---
 ## Week 3: Variables, Data Types, Expressions and Input/Output
 
 ### Objectives
